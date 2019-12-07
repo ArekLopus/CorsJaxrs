@@ -15,8 +15,6 @@
 
 This small library is based on JAX-RS's ContainerResponseFilter so it requires at least **JAX-RS v2.0 or Java EE 7.0** and **Java 8**.
 
-To use it, copy the target/CorsJaxrs.jar file or build it from the source code using `mvn package` command.
-
 To use, it copy the target/cors-jaxrs.jar file or build it from the source code using `mvn package` command.
 
 Or use `mvn install` command to add it to the local repository and then use as a dependency:
